@@ -94,20 +94,16 @@ This project applies concepts from **Discrete Mathematics** to analyze Poker thr
 
 ---
 
-## 📦 Project Structure (suggested)
+## 📦 Project Structure
 
-'''
-poker-probability-simulation/
+``` poker-probability-simulation/
 │── main.py
 │── simulation.py
 │── probability.py
 │── ev_analysis.py
 │── utils.py
 │── README.md
-'''
-
----
-
+```
 
 ---
 
